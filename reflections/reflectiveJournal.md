@@ -24,3 +24,9 @@ Git is an open source version control system for developers to track the changes
 
 ### What is GitHub?
 Github is a social platform for develomers to store their changes in the timeline.
+### my idea software project
+How can I use python to improve digital marketing? What code can I write?
+In most cases also, it entails repetitive tasks such as gathering campaign statistics, generating reports, measuring conversion rates, email marketing, and analyzing customer behavior on a website. https://medium.com/visualmodo/improve-your-digital-marketing-with-python-85828a6a2bc3
+### use Python for SEO
+### a collection of your own code?
+### turtle graphic : the code for my initial 
