@@ -30,3 +30,23 @@ In most cases also, it entails repetitive tasks such as gathering campaign stati
 ### use Python for SEO
 ### a collection of your own code?
 ### turtle graphic : the code for my initial 
+### python practice :code 
+light_is_on= True
+If;light_is_on : print("The light is on!")
+Day= 4
+Temp= 15
+print( Day)
+print(Temp)
+light_is_on=False
+if light_is_on:
+   print("light_is_on")
+else:
+   print("We're in the dark")
+weight =190.4
+if weight != 195:
+    print("you're under weight:)")
+age =49
+if age>=18:
+   print("they are adult")
+else:
+    print("they are a child")
