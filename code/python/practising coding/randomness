@@ -1,0 +1,22 @@
+###randomness 
+import random
+### comment I need to import to bring the module in. 
+random.randint(1,10)
+### we need to put the two numbers, which are minimum and maxmum. 
+### comment: if you want something to show up on the console, you need to add" print". What's more, you need to add ().
+print (random.randint(1,10))
+print (random.random ())
+### how to creat float between 0 and 1
+### comment: the different of "randint" and "random". random is between 0 and 1
+### make your own version of a magic 8 ball that prints yes, no, or maybe each time you ask it
+### we need to use if statement and represent yes, no or maybe in number form.
+
+answer =random.randint(1,3)
+if answer==1:
+    print("yes")
+if answer==2:
+    print("No")
+if answer==3:
+    print("Maybe")
+    ### when we want to compare, we need to use two equal sign. 
+### how to use the python skills to build a project. The project is lucky fortune cookie
