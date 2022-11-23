@@ -1,0 +1,23 @@
+import turtle
+t=turtle. Turtle()
+t.shape("turtle")
+t.speed(1)
+t.color('yellow')
+t.pensize(20)
+# A shape
+t.pendown
+t.left(60)
+t.forward(200)
+t.right(120)
+t.forward(200)
+t.backward(85)
+t.left(-120)
+t.forward(100)
+t.penup()
+t.goto(300,250)
+# C shape
+t.pendown()
+t.right(20)
+t.fd(60)
+t.circle(60,180)
+t.fd(60)
