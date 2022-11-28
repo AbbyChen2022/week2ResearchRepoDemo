@@ -1,0 +1,24 @@
+fav_movies = ["sandlot", "the lego", "Dune"]
+### use open and close square branckets for a list and seperate the item by a comma
+print(fav_movies[0])
+### list use o base counting. It means the number 0 movie is forzen. The number 1 movie is the lion king.
+# make a list of your 3 favourite numbers and print the first number form your list.
+fav_numbers =["7","3","9"]
+print(fav_numbers[0])
+### if we want to know the length, we can use "len"
+print(len(fav_movies))
+### how to add more movies into the list, we can use "append"
+fav_movies.append("nemo")
+print (fav_movies)
+### how to put items into a specific space, you can use"insert" with number to show the place and the string to show the name.
+fav_movies.insert(2,"ciderella")
+print(fav_movies)
+### if we want to delete the name on the list, we can use "del" with place number
+del(fav_movies[0])
+print(fav_movies)
+### delete enough items from fav. movies until there is only one movie left.
+del(fav_movies[2])
+print(fav_movies)
+del(fav_movies[0])
+del(fav_movies[1])
+print(fav_movies)

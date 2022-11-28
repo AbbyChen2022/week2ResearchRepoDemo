@@ -1,0 +1,8 @@
+cats = {"Jane":6, "Tom":14,"Sara":8}
+print(cats["Tom"])
+cats["wilson"]= 1 
+del(cats["Tom"])
+len(cats)
+print(lens(cats))
+print(cats[8])
+# key value pair

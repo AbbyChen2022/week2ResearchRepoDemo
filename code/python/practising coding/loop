@@ -1,0 +1,17 @@
+for number in range (10):
+ print("hello")
+ print("hi there")
+ print(number)
+ ### number starts from 0. Number holds different values.
+ for years in range(100):
+    print(years)
+### loop ans list can work together.
+fav_movies=["coco","the lion king",]
+for movie in fav_movies:
+    print(movie)
+### we can use "range" to print out the order of the number we want.
+for number in range (50):
+    print(number)
+    #loop 40 times and print the number of the loop time 2. ex. 2,4,6,8
+for number in range(40):
+    print(number*2)
