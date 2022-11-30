@@ -1,0 +1,19 @@
+
+### def is short for define.  define a function is to give a name of chunk of code .
+### anythime in Python that you see the colon(:) at the end of something, typically when we hit Enter to the next line, we are tabbed over because thats saying, we want to do something if something above has happened.
+def bark():
+    print("woof woof!")
+### nothing show up. With function, if we want the code to run, we need to type out the function.
+bark()
+### the function could be multi lines
+for x in range(100):
+    bark()
+### The above is to give a function of a chunk of code and run it over and over again.
+
+# practice: creat a function called hello that prints " hello Abby"
+
+def hello():
+    print("Hello Abby")
+hello()
+for x in range(10):
+   hello()

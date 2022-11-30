@@ -1,0 +1,22 @@
+guess = int(input("what is your guess?:"))
+correct_number = 5
+
+while guess != correct_number:
+    guess = int(input("what is your guess?:"))
+print("You got the right answer:)")
+
+guess = int(input("what is your guess?:"))
+correct_number = 5
+guess_count = 0
+while guess != correct_number:
+    guess_count += 1
+    guess = int(input("what is your guess?:"))
+print(f" Coungratulation! You got the right answer was {correct_number}. It took you{guess_count} guess.)")
+
+guess = int(input("what is your guess?:"))
+correct_number = 5
+guess_count = 0
+while guess != correct_number:
+    guess_count += 1
+    guess = int(input("what is your guess?:"))
+print(f" Coungratulation! You got the right answer was {correct_number}. It took you{guess_count} guess.)")

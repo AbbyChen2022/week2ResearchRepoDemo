@@ -1,0 +1,14 @@
+text = """Disgraced chief executive Tim Boyd spent nearly two months on leave for “confidential reasons” during his short stint as the boss of a ratepayer-owned company.
+More than 130 pages of emails released this week show Boyd went on leave less than four months after he started in the $430,000-a-year position at Christchurch City Holdings Ltd (CCHL).
+The emails also show that ratepayers paid for Boyd to move to Christchurch.
+CCHL said this was common practice and Boyd was entitled to use up to $40,000, but he did not use it all. CCHL did not say how much was used.
+"""
+print(text)
+### put tripple quoate marks""""" t"o make multiple lines to be all one line
+### take text into a list to make some analyst
+### find the length= the characters of the text 
+print(len(text))
+### if we want ot know how many words, we need to split the text.
+print(text.split())
+### the second step is to find the length of the lists of split of text.
+print(len(text.split()))

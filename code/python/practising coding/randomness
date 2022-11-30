@@ -19,4 +19,5 @@ if answer==2:
 if answer==3:
     print("Maybe")
     ### when we want to compare, we need to use two equal sign. 
+    
 ### how to use the python skills to build a project. The project is lucky fortune cookie

@@ -27,26 +27,13 @@ Github is a social platform for develomers to store their changes in the timelin
 ### my idea software project
 How can I use python to improve digital marketing? What code can I write?
 In most cases also, it entails repetitive tasks such as gathering campaign statistics, generating reports, measuring conversion rates, email marketing, and analyzing customer behavior on a website. https://medium.com/visualmodo/improve-your-digital-marketing-with-python-85828a6a2bc3
-### use Python for SEO
-### a collection of your own code?
+
 ### turtle graphic : the code for my initial 
-### python practice :code 
-light_is_on= True
-If;light_is_on : print("The light is on!")
-Day= 4
-Temp= 15
-print( Day)
-print(Temp)
-light_is_on=False
-if light_is_on:
-   print("light_is_on")
-else:
-   print("We're in the dark")
-weight =190.4
-if weight != 195:
-    print("you're under weight:)")
-age =49
-if age>=18:
-   print("they are adult")
-else:
-    print("they are a child")
+### python practice :code (with comment )
+
+### a collection of your own code
+### codes that you've been inspired by 
+### things that you think are interesting or just don't understand (with comment)
+1.use Python for SEO
+### practice project:
+1. lucky fortune cookies

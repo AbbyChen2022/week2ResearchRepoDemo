@@ -1,0 +1,6 @@
+wallet = 40
+###
+wallet -= 8
+wallet += 8
+# I need to figure out how to uppercase this
+#

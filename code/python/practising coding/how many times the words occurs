@@ -1,0 +1,89 @@
+text =  """
+a b c a d 
+"""
+print(text.split())
+word_count={}
+for word in text.split():
+    if word in word_count:
+        word_count[word] += 1
+    else:
+        word_count[word] = 1
+print (word_count)
+### use for loop with a dictionary list to count the words
+
+text = """
+World
+Politics
+Pacific
+Te Ao Māori
+Sport
+Business
+Country
+Local Democracy Reporting
+Comment & Analysis
+In Depth
+Weather
+NEW ZEALAND ENVIRONMENT10:04 am today
+Fish export ban in Māui dolphin case is about procedure, seafood industry says
+10:04 am today 
+Share this 
+Share on Twitter
+Share on Facebook
+Share via email
+Share on Reddit
+Share on Linked In
+Maui dolphin.Sea Shepherd New Zealand filed legal proceedings under the US Marine Mammal Protection Act in an effort to protect endangered Māui dolphin habitats, under the US Marine Mammal Protection Act. Photo: Earthrace Conservation / Liz Slooten
+A temporary ban on some fish exports into the US is about procedure, not New Zealand's compliance with US marine mammal protection standards, an industry representative says.
+
+A US court has ordered an immediate ban on New Zealand exports of several species of fish from two fisheries off the North Island's west coast.
+
+Marine wildlife conservation organisation Sea Shepherd New Zealand filed legal proceedings under the US Marine Mammal Protection Act in an effort to protect endangered Māui dolphin habitats.
+
+The preliminary injunction handed down by the US Court of International Trade applies to nine species from the West Coast North Island inshore trawl and set net fisheries, including snapper, tarakihi and spotted dogfish.
+
+"We're industrial trawling in [Māui dolphins'] habitat so we're not giving them enough space" - Sea Shepherd managing director Michael Lawry duration4′ :17″ from Morning Report Add to playlist  Download
+Download as Ogg
+Download as MP3
+Play Ogg in browser
+Play MP3 in browser
+"We're industrial trawling in [Māui dolphins'] habitat so we're not giving them enough space" - Sea Shepherd managing director Michael Lawry
+Sea Shepherd managing director Michael Lawry said it took the case after running out of strategies to try to protect the Māui dolphin.
+
+"It sends a strong signal to the fishing industry in New Zealand and the government that we need to have stronger regulatory control to protect our dolphin.
+
+"If we can't comply with the world's biggest economy and we're marketing our fish there ... we're not protecting our marine mammals.
+
+"We're industrial trawling in their habitat so we're not giving them enough space."
+
+This was a temporary ban but given the way the US courts work it could go on for some time, he said.
+
+"The US government has found that what we're doing in New Zealand is comparable with what is required in the US" - Seafood NZ chief executive Dr Jeremy Helson duration5′ :17″ from Morning Report Add to playlist  Download
+Download as Ogg
+Download as MP3
+Play Ogg in browser
+Play MP3 in browser
+"The US government has found that what we're doing in New Zealand is comparable with what is required in the US" - Seafood NZ chief executive Dr Jeremy Helson
+Industry body Seafood NZ chief executive Dr Jeremy Helson said New Zealand fisheries do comply with US standards.
+
+"What we're having here is a court case about the process and procedure around making that assessment.
+
+"The US government has assessed New Zealand's regulatory programme as comparable in effectiveness to that in the US."
+
+In New Zealand law there there was a defence for capture of marine mammals, but fishing companies must exercise reasonable care and due diligence to avoid that, he said
+
+"We have very comprehensive protection for marine mammals along that west coast of the North Island. Huge amounts of area have been closed to fishing.
+
+"We've also got very extensive monitoring, most of the vessels have cameras on them. There's been many thousands of observer days on our fisheries as well and there's not been a single sighting of a marine mammal let alone a capture."
+
+Helson said if the preliminary ban was to stay "it would put a dent in some exports into the US... in the order of a few million dollars
+"""
+print(text.split())
+word_count={}
+### this is to make the text into a list of dictionary
+for word in text.split():
+    if word in word_count:
+       word_count[word]=+ 1
+    else:
+        word_count[word] = 1
+
+print(word_count)

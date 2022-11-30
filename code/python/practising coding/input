@@ -1,0 +1,16 @@
+input('Enter some text') # the ability to type in the console. we can turn input into variety
+user_text = input('Enter some text')
+print(user_text. upper())
+input('enter some text:') # add the colon for people to know where to type in the text
+user_text =input('enter some text:')
+print(user_text. upper())
+user_number =input("what do you want to double?")
+print(int(user_number) *2) # We need to turn it into int when you want to take input from concole
+# challenge_first ask for some text, and then prompt "Enter 1 to uppercase and 2 to lowercase:"and then either upper or lowercase it
+user_text = input ('enter some text')
+upper_or_lower = input("Enter 1 to uppercase and 2 to lowercase:")
+if upper_or_lower =="1":
+    print(user_text.upper())
+else:
+    print(user_text.lower())
+
