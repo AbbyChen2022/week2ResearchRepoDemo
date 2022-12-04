@@ -1,0 +1,3 @@
+import pdftables_api #import Moduel
+conversion = pdftables_api.Client('pvu4z5hvanm0') #API key verification
+conversion.csv ("pdf_path= C:\Users\Abby Chen\Documents\GitHub\transactions.pdf, csv_path= C:\Users\Abby Chen\Documents\GitHub\transactions.csv")

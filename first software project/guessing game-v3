@@ -1,0 +1,18 @@
+# use while loop to continue the guessing game.
+# I didn't use random in this version.
+# use break to stop guessing
+print("You only have 5 chances to guess.")
+print("Please guess a number between 50 and 90.")
+# create 3 variables for while loop to use.
+correct_guess= 88
+guess_count = 0
+guess_limit = 5
+while guess_count < guess_limit:
+    guess= int(input('guess a number:'))
+    guess_count+=1
+    if guess == correct_guess:
+        print('You are right.')
+        break
+else:
+    print ('guess again.')
+# use the break statement to terminate the games.

@@ -1,0 +1,8 @@
+import turtle
+loadwindow = turtle.TurtleScreen
+turtle.speed(3)
+for i in range(100): #what does i mean?
+    turtle.circle (5*i)
+    turtle.circle (-5*i)
+    turtle.left(i)
+    turtle.exitonclick # this function is used to go into mainloop until the mouse is clicked.

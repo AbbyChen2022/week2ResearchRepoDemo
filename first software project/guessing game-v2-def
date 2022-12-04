@@ -1,0 +1,18 @@
+import random
+# I use the randint() function to do a lucky number situation. 
+def lucky_number():
+    number = random.randint(1,100)
+    print ("Guess a number between 1 and 100.")
+lucky_number()
+# defining a function takes user input 
+#count=5
+#flag = 0
+# The user only can have 5 times to guess.
+pick_a_number = int(input("Pick your number:"))
+# check user's number 
+if pick_a_number == lucky_number:
+        print("You are right!")
+else:
+    print("You are wrong. Guess again.")
+# I use a flag as a signal  to determine when the program should run
+print("Click play button.")

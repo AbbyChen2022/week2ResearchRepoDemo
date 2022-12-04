@@ -1,0 +1,21 @@
+import random
+number =random.randint(1,100)
+# I print out the number for us to know.
+print(number)
+print("You have 5 chances to guess.")
+# creat a range of total chances. 
+count = 0
+limit = 5
+for i in range(5,0,-1):
+    while count < limit:
+        guess= int(input('guess a number:'))
+    count+=1
+    if guess > number:
+        print("Your number is too high.")
+        print("Number of chances left:",i)
+    elif guess == number:
+        print ("You are right.")
+        break
+    else:
+        print("Your number is too low.")
+        print ("Number of chance left:",i)

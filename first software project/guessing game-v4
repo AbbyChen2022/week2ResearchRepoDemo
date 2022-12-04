@@ -1,0 +1,23 @@
+import random
+# I imported random function for computer to generate random number.
+number =random.randint(1,100)
+#  I set a range. 
+player= input("Hello,What's your name? Enter your name:")
+# I use input method for player to type in their name.
+print(player,"Let's play guessing game!")
+print("How many cars in the road now?")
+print("Please guess a number between 1 and 100.")
+print("You have 5 chances to guess.")
+# create 3 variables for while loop to use.
+correct_guess= number
+guess_count = 0
+guess_limit = 5
+while guess_count < guess_limit:
+    guess= int(input('guess a number:'))
+    guess_count+=1
+    if guess == correct_guess:
+        print('You are right.')
+        break
+else:
+    print ('Sorry,your chances are gone.')
+# use the break statement to terminate the games.
