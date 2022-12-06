@@ -9,8 +9,6 @@ Scratch is a block-based visual programming language,which use block-like interf
 
 ### What is visual programming?
 In very general terms, visual programming describes a programming environment where visual icons and symbols are manipulated to graphically create computer code / instructions, rather than through the use of text. 
-### Can you put the changes in Git up to GitHub form the IDE?
-
 
 ### What are some programming principles that you have discovered?
 
@@ -38,18 +36,33 @@ In most cases also, it entails repetitive tasks such as gathering campaign stati
 ### practice project:
 1. lucky fortune cookies
 
-Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-What is Timeboxing? Have you heard of it before? Will you use it?
-On a a 0-5 scale, how confident are you with each of the assignments?
-What are of you proud of up to this point in the course?
-Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself.
-If you could send a time traveling text message back to yourself at the start of this course, what would it say?
-What is Python?
-Have you developed a habit of exploring?
-Have you meditated before?
-Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
-Do you consider yourself a developer yet?
-Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+# Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+yes, twice. I went out for a walk during the weekend.
+# What is Timeboxing? Have you heard of it before? Will you use it?
+
+In gist, timeboxing is a time management technique where you allocate a fixed time period to a planned activity. You work on the activity during the fixed time period and stop working on it once the time is up - then, you assess whether you've reached your planned goals.
+
+I need to learn more about it. 
+# On a a 0-5 scale, how confident are you with each of the assignments?
+I give 5 for assigntment 1 Pseudocode and give 3 for my first software project.
+# What are of you proud of up to this point in the course?
+I can code a simple project and started to learn python which I know 3 years ago. 
+# Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself.
+Firstly, starting learning from a small and easy tutuaril and do some practice on your own. I tried to one or two functions of pyhton every day. 
+# If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+You need to start to learn python by watching the tuturial. 
+# What is Python?
+A coding language.
+# Have you developed a habit of exploring?
+Yes. Just google it not matther how much you know. 
+# Have you meditated before?
+yes. But i am not sure if it is meditated. 
+# Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+
+# Do you consider yourself a developer yet?
+NO 
+# Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+yes. 
 How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 Have you had a fight response to technology? What does it feel like? How did you overcome this?
 What is an IDE?
