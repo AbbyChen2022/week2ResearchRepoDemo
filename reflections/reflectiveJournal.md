@@ -41,7 +41,11 @@ yes, twice. I went out for a walk during the weekend.
 # What is Timeboxing? Have you heard of it before? Will you use it?
 
 In gist, timeboxing is a time management technique where you allocate a fixed time period to a planned activity. You work on the activity during the fixed time period and stop working on it once the time is up - then, you assess whether you've reached your planned goals.
+In timeboxing time periods are called "timeboxes" and may involve larger time periods, covering periods ranging from 15 minutes to several months. A timebox always has specific deadlines and goals associated with it, and it may also involve deliverables, a budget, and milestones.
 
+At the end of the timebox, you declare your work done, no matter what, and then you assess whether you were able to meet your goals, either completely or partially.
+
+For example, you want to tidy up your office, but don't want to spend an entire afternoon on it. So, you allocate half an hour to this task and stop immediately once your 30-minute timebox is up no matter how much you've really managed to clean up.
 I need to learn more about it. 
 # On a a 0-5 scale, how confident are you with each of the assignments?
 I give 5 for assigntment 1 Pseudocode and give 3 for my first software project.
