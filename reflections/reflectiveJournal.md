@@ -63,14 +63,14 @@ yes. But i am not sure if it is meditated.
 NO 
 # Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 yes. 
-How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
-Have you had a fight response to technology? What does it feel like? How did you overcome this?
-What is an IDE?
-What did you learn out of the Marshmallow Challenge?
-Did you have any blocks during this challenge? How did you overcome them?
-So far, what was the hardest moment of this course for you?
-What is OOP?
-Are you using the canvas content? Do you find it helpful or tedious?
+# How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+# Have you had a fight response to technology? What does it feel like? How did you overcome this?
+# What is an IDE?
+# What did you learn out of the Marshmallow Challenge?
+# Did you have any blocks during this challenge? How did you overcome them?
+# So far, what was the hardest moment of this course for you?
+# What is OOP?
+# Are you using the canvas content? Do you find it helpful or tedious?
 Which parts of the work did you find tedious?
 What is polymorphism?
 Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
