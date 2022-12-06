@@ -68,8 +68,11 @@ NO
 # Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 yes. 
 # How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+4 tabs. The ration of study related tabs to distraction related tabs is 4:1.
 # Have you had a fight response to technology? What does it feel like? How did you overcome this?
+Yes,especially a new technology looks like very complicated. It feels like you push you away from something familiar. I overcome it by starting knowing more about it. 
 # What is an IDE?
+
 # What did you learn out of the Marshmallow Challenge?
 # Did you have any blocks during this challenge? How did you overcome them?
 # So far, what was the hardest moment of this course for you?
