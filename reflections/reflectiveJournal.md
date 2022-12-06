@@ -72,18 +72,23 @@ yes.
 # Have you had a fight response to technology? What does it feel like? How did you overcome this?
 Yes,especially a new technology looks like very complicated. It feels like you push you away from something familiar. I overcome it by starting knowing more about it. 
 # What is an IDE?
+An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI). An IDE typically consists of:
 
+Source code editor: A text editor that can assist in writing software code with features such as syntax highlighting with visual cues, providing language specific auto-completion, and checking for bugs as code is being written.
+Local build automation: Utilities that automate simple, repeatable tasks as part of creating a local build of the software for use by the developer, like compiling computer source code into binary code, packaging binary code, and running automated tests.
+Debugger: A program for testing other programs that can graphically display the location of a bug in the original code.
 # What did you learn out of the Marshmallow Challenge?
+Teamwork is very important. 
 # Did you have any blocks during this challenge? How did you overcome them?
 # So far, what was the hardest moment of this course for you?
 # What is OOP?
 # Are you using the canvas content? Do you find it helpful or tedious?
-Which parts of the work did you find tedious?
-What is polymorphism?
-Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
-What is an MVP? How would you describe it to a group of 6 year olds?
-What is the hardest problem you have solved so far?
-What is pair programming?
+# Which parts of the work did you find tedious?
+# What is polymorphism?
+# Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+# What is an MVP? How would you describe it to a group of 6 year olds?
+# What is the hardest problem you have solved so far?
+# What is pair programming?
 What are you looking forward to learning about programming?
 What is conscious listening?
 What is a variable?
