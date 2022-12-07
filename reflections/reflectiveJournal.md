@@ -85,6 +85,8 @@ Teamwork is very important.
 The moment when I have to decide which should be my assignment project. The analysis of my bank statement is my ideal project. however I haven't master enough skills to do that. I tried to watch tutorial online but still cant understand some code block. 
 At the last few hours before deadline, I have to choose a guessing game as my project which fit for my ability. 
 # What is OOP?
+OOP stands for objected oriented programming. 
+
 # Are you using the canvas content? Do you find it helpful or tedious?
 # Which parts of the work did you find tedious?
 # What is polymorphism?
