@@ -80,7 +80,10 @@ Debugger: A program for testing other programs that can graphically display the 
 # What did you learn out of the Marshmallow Challenge?
 Teamwork is very important. 
 # Did you have any blocks during this challenge? How did you overcome them?
+
 # So far, what was the hardest moment of this course for you?
+The moment when I have to decide which should be my assignment project. The analysis of my bank statement is my ideal project. however I haven't master enough skills to do that. I tried to watch tutorial online but still cant understand some code block. 
+At the last few hours before deadline, I have to choose a guessing game as my project which fit for my ability. 
 # What is OOP?
 # Are you using the canvas content? Do you find it helpful or tedious?
 # Which parts of the work did you find tedious?
