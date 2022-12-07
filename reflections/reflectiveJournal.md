@@ -86,7 +86,7 @@ The moment when I have to decide which should be my assignment project. The anal
 At the last few hours before deadline, I have to choose a guessing game as my project which fit for my ability. 
 # What is OOP?
 OOP stands for objected oriented programming. 
-
+it is a kind of programming which identify the class of objects closely linked with link ( function ) which they are associated. 
 # Are you using the canvas content? Do you find it helpful or tedious?
 # Which parts of the work did you find tedious?
 # What is polymorphism?
