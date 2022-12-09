@@ -14,7 +14,7 @@ In very general terms, visual programming describes a programming environment wh
 - Write code as simple as possible.
 - Don't repeat the code. Instead of duplicating lines, try to find an algorithm that uses a loop instead.
 - Document your code.Leave comments to explain objects, enhance variable definitions, and make functions easier to understand.
-- 
+ 
 ### Can you share your favourite Scratch project that you have made or remixed?
     https://scratch.mit.edu/projects/754850155
     
