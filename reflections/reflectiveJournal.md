@@ -11,7 +11,10 @@ Scratch is a block-based visual programming language,which use block-like interf
 In very general terms, visual programming describes a programming environment where visual icons and symbols are manipulated to graphically create computer code / instructions, rather than through the use of text. 
 
 ### What are some programming principles that you have discovered?
-
+- Write code as simple as possible.
+- Don't repeat the code. Instead of duplicating lines, try to find an algorithm that uses a loop instead.
+- Document your code.Leave comments to explain objects, enhance variable definitions, and make functions easier to understand.
+- 
 ### Can you share your favourite Scratch project that you have made or remixed?
     https://scratch.mit.edu/projects/754850155
     
