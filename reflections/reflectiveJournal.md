@@ -90,10 +90,19 @@ it is a kind of programming which identify the class of objects closely linked w
 # Are you using the canvas content? Do you find it helpful or tedious?
 # Which parts of the work did you find tedious?
 # What is polymorphism?
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
+
 # Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+No. 
 # What is an MVP? How would you describe it to a group of 6 year olds?
+A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product
 # What is the hardest problem you have solved so far?
 # What is pair programming?
+Pair programming is the practice of pairing up to work on programming tasks.The requirements for pair programming are minimal: two developers and a shared command line or code editor. With these basic ingredients in place, there are many ways to pair program, from the “Ping Pong Pattern” to much less structured forms. We’ll dive into different techniques for pair programming in the sections below, but they all have two critical things in common: turn-taking and open communication.
+
+
+
 What are you looking forward to learning about programming?
 What is conscious listening?
 What is a variable?
