@@ -90,8 +90,13 @@ it is a kind of programming which identify the class of objects closely linked w
 # Are you using the canvas content? Do you find it helpful or tedious?
 # Which parts of the work did you find tedious?
 # What is polymorphism?
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
+
 # Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+No. 
 # What is an MVP? How would you describe it to a group of 6 year olds?
+
 # What is the hardest problem you have solved so far?
 # What is pair programming?
 What are you looking forward to learning about programming?
