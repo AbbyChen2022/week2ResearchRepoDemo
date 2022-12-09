@@ -26,19 +26,9 @@ Github is a social platform for develomers to store their changes in the timelin
 How can I use python to improve digital marketing? What code can I write?
 In most cases also, it entails repetitive tasks such as gathering campaign statistics, generating reports, measuring conversion rates, email marketing, and analyzing customer behavior on a website. https://medium.com/visualmodo/improve-your-digital-marketing-with-python-85828a6a2bc3
 
-### turtle graphic : the code for my initial 
-### python practice :code (with comment )
-
-### a collection of your own code
-### codes that you've been inspired by 
-### things that you think are interesting or just don't understand (with comment)
-1.use Python for SEO
-### practice project:
-1. lucky fortune cookies
-
-# Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-yes, twice. I went out for a walk during the weekend.
-# What is Timeboxing? Have you heard of it before? Will you use it?
+### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+Yes, twice. I went out for a walk during the weekend.
+### What is Timeboxing? Have you heard of it before? Will you use it?
 
 In gist, timeboxing is a time management technique where you allocate a fixed time period to a planned activity. You work on the activity during the fixed time period and stop working on it once the time is up - then, you assess whether you've reached your planned goals.
 In timeboxing time periods are called "timeboxes" and may involve larger time periods, covering periods ranging from 15 minutes to several months. A timebox always has specific deadlines and goals associated with it, and it may also involve deliverables, a budget, and milestones.
@@ -56,7 +46,7 @@ Firstly, starting learning from a small and easy tutuaril and do some practice o
 # If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 You need to start to learn python by watching the tuturial. 
 # What is Python?
-A coding language.
+A coding language.Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
 # Have you developed a habit of exploring?
 Yes. Just google it not matther how much you know. 
 # Have you meditated before?
@@ -88,7 +78,9 @@ At the last few hours before deadline, I have to choose a guessing game as my pr
 OOP stands for objected oriented programming. 
 it is a kind of programming which identify the class of objects closely linked with link ( function ) which they are associated. 
 # Are you using the canvas content? Do you find it helpful or tedious?
+No.
 # Which parts of the work did you find tedious?
+I prefer video content types.
 # What is polymorphism?
 Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
 Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
@@ -98,19 +90,31 @@ No.
 # What is an MVP? How would you describe it to a group of 6 year olds?
 A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product
 # What is the hardest problem you have solved so far?
+I find ways to start self-learning python by watching tuturials on Linkedin. 
 # What is pair programming?
 Pair programming is the practice of pairing up to work on programming tasks.The requirements for pair programming are minimal: two developers and a shared command line or code editor. With these basic ingredients in place, there are many ways to pair program, from the “Ping Pong Pattern” to much less structured forms. We’ll dive into different techniques for pair programming in the sections below, but they all have two critical things in common: turn-taking and open communication.
 
+# What are you looking forward to learning about programming?
+I would like to master the knowledge to use programming to sovle some digital marketing and data analysis problems.
+# What is conscious listening?
+Conscious listening is the act of being intentionally present during communication between yourself and another while being aware of your own and the other’s feelings and needs. Conscious listening is related to mindful listening, which is allowing another to express him/herself without interrupting, judging, refuting or discounting.
+# What is a variable?
+In programming, a variable is a value that can change, depending on conditions or on information passed to the program. Naming variables is known as one of the most difficult tasks in computer programming. When you are naming variables, think hard about the names. Try your best to make sure that the name you assign your variable is accurately descriptive and understandable to another reader. Sometimes that other reader is yourself when you revisit a program that you wrote months or even years earlier.
 
-
-What are you looking forward to learning about programming?
-What is conscious listening?
-What is a variable?
-What programming languages are you interested in learning? Why?
-What is something kind that someone has done for you?
-If you were describing programming to someone who knows nothing about it, what would you say?
-Which parts of this course made you feel doubtful of your own innate ability?
-What is a fixed mindset?
-What is something kind you have done for someone else?
-Have you done mindfulness or attention training before?
-Have you developed a habit of persevering?
+When you assign a variable, you use the = symbol. The name of the variable goes on the left and the value you want to store in the variable goes on the right.
+# What programming languages are you interested in learning? Why?
+python. Because it is the language that can be used for data analysis. #
+# What is something kind that someone has done for you?
+Maria answers my questions all the time, which keep me improving my knowledge.
+# If you were describing programming to someone who knows nothing about it, what would you say?
+Programming is something you assign instruction to computer and prepared the response for computers. 
+# Which parts of this course made you feel doubtful of your own innate ability?
+I am not too sure about this. But I think my English language skills affects my learning. Sometimes I am not quite understand what the teacher is talking. It will be better if I watched tuturial which have some PPT to explain. 
+# What is a fixed mindset?
+People with a fixed mindset typically believe that their level of intelligence and abilities are innate.
+# What is something kind you have done for someone else?
+I helped answers questions when my classmates asked me.
+# Have you done mindfulness or attention training before?
+No. 
+# Have you developed a habit of persevering?
+Yes. I tried to invest at least 10 mins to my goals.
