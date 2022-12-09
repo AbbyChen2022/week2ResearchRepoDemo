@@ -1,0 +1,8 @@
+# number
+type (1.5)
+# float. The computer record the number by the place of the decimal place. And the decimal place kind of floats around.
+# string  can add togther but python just put these two thing togeter
+# String are declared with single quotes.''
+'string 1' + 'string 2' 
+out put 
+

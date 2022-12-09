@@ -64,7 +64,7 @@ yes. But i am not sure if it is meditated.
 # Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
 # Do you consider yourself a developer yet?
-NO 
+NO. 
 # Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 yes. 
 # How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
@@ -78,9 +78,9 @@ Source code editor: A text editor that can assist in writing software code with 
 Local build automation: Utilities that automate simple, repeatable tasks as part of creating a local build of the software for use by the developer, like compiling computer source code into binary code, packaging binary code, and running automated tests.
 Debugger: A program for testing other programs that can graphically display the location of a bug in the original code.
 # What did you learn out of the Marshmallow Challenge?
-Teamwork is very important. 
+Teamwork is very important.
 # Did you have any blocks during this challenge? How did you overcome them?
-
+No. 
 # So far, what was the hardest moment of this course for you?
 The moment when I have to decide which should be my assignment project. The analysis of my bank statement is my ideal project. however I haven't master enough skills to do that. I tried to watch tutorial online but still cant understand some code block. 
 At the last few hours before deadline, I have to choose a guessing game as my project which fit for my ability. 
