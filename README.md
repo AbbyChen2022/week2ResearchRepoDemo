@@ -36,7 +36,5 @@ Actually all the code that in the tuturial are inspired me.
 # reflections 
 
 Please find your reflective journal here [reflectiveJournal.md](./reflections/reflectiveJournal.md)
-## first software project
-I used the github to do my first software project.
 
 Thank you for reading!
