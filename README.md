@@ -1,6 +1,9 @@
 # Research Repository
-
+My research repository include two parts.
+part 1: code I practiced or was inspired by 
+part 2: reflections 
 # code 
+I commented my thought in the code files when I practiced. 
 ## turtle graphic 
 I used the turtle function to do my initials and draw some pattern.
 -my initials
