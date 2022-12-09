@@ -1,14 +1,14 @@
 # Research Repository
 
-## code 
-# turtle graphic 
+# code 
+## turtle graphic 
 I used the turtle function to do my initials and draw some pattern.
 -my initials
 -stars
 -rainbow benzene
 -other shapes
 -spiral helix pattern
-# python basic concepts
+## python basic concepts
 After reading on W3 and watching videos on Linkedin, I practice the below concepts:
 -basic data type
 -data structures
@@ -20,7 +20,7 @@ After reading on W3 and watching videos on Linkedin, I practice the below concep
 -randomness
 -spliting the string
 - variables and types. 
-# data analysis
+## data analysis
 -warm up with python loop
 -learning jupyter notebook
 -numby
@@ -28,9 +28,9 @@ After reading on W3 and watching videos on Linkedin, I practice the below concep
 -loops and genrize 
 -convert pdf into excel
 
-# code that inspires me
+## code that inspires me
 Actually all the code that in the tuturial are inspired me. 
-## reflections 
+# reflections 
 
 Please find your reflective journal here [reflectiveJournal.md](./reflections/reflectiveJournal.md)
 ## first software project
